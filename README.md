@@ -21,7 +21,7 @@ Clone the repository and install dependencies:
 ```sh
 git clone https://github.com/MahmudulHasan/Playwright-admin-dashboard.git
 cd Playwright-admin-dashboard
-npm install  # or yarn install
+npm install
 ```
 
 ### Running Tests
