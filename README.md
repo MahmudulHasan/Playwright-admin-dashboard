@@ -40,17 +40,6 @@ Show report in browser:
 allure open ./allure-report
 ```
 
-### Running Specific Tests
-Run a specific test file:
-```sh
-npx playwright test tests/example.spec.ts
-```
-
-Run a test with a specific tag:
-```sh
-npx playwright test --grep @smoke
-```
-
 ### Debugging Tests
 Run tests with Playwright Inspector:
 ```sh
